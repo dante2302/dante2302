@@ -10,6 +10,7 @@
   ---
   
   ###  🦸 About me:
+  
  👨‍💻  I'm a Front-End developer from 🇧🇬 Bulgaria <br>
  :telescope:  I’m working on personal projects and contributing to building web application <br>
  :zap:  In my free time, I solve problems on 
@@ -21,12 +22,19 @@
  ---  
     
 ### :hammer_and_wrench: Languages and Tools  
+
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript">&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML">&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS">&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git">&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="50" height="50" alt="GIMP">&nbsp; 
-</div        
+</div>        
                                                                                   
+---
 
+### :fire: My Stats:  
+
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?         user=dante2302&theme=tokyonight&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&ring=000000A9&fire=DD2727&dates=FF2D2DC5&sideNums=FFFFFF&sideLabels=DDDDDD&border=DD2727&background=262725E6&stroke=060605)](https://git.io/streak-stats)
+</div
