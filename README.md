@@ -35,4 +35,4 @@
 
 ### :fire: My Stats:  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dante2302&background=262725E6&stroke=060605&ring=000000A9&fire=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dante2302&background=262725AB&stroke=060605&ring=000000A9&fire=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=000000A5)](https://git.io/streak-stats)
