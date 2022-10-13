@@ -24,11 +24,14 @@
 ### :hammer_and_wrench: Languages and Tools  
 
 <div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript">&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML">&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS">&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git">&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="50" height="50" alt="GIMP">&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python">&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="sql">&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="matplotlib">&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="numpy">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="pandas">&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git">&nbsp;
+
 </div>        
                                                                                   
 ---
