@@ -35,7 +35,7 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2302&layout=donut)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dante2302&border_radius=5&card_width=450)](https://git.io/streak-stats)
 
 
