@@ -36,8 +36,7 @@
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2302&layout=donut)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Darin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dante2302)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dante2302" alt="GitHub Streak" /></a>
 
 
 
