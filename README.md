@@ -9,11 +9,15 @@
  </div>
   
 ##   About me
-  My name is Darin Penchev, I live in 🇧🇬Bulgaria and I'm actively looking for a developer job!  
+  My name is Darin Penchev, I live in Bulgaria and I'm actively looking for a developer job!  
   
 <br />
    
 ## Technologies & Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> &nbsp;
@@ -21,7 +25,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" /> &nbsp;
+
+
+
 
 <br />
 
