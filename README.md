@@ -15,17 +15,16 @@
    
 ## Technologies & Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" /> &nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="65"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="65"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="65"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="65" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="65" /> &nbsp;
 
 
 
@@ -33,8 +32,8 @@
 
 ## Contacts
 <div>
-<a href="www.linkedin.com/in/darinpenchev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="50" /></a> &nbsp;
-<a href="mailto:darin.penchev420@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" /></a>
+<a href="www.linkedin.com/in/darinpenchev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="65" /></a> &nbsp;
+<a href="mailto:darin.penchev420@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="65" /></a>
 </div>
 
 <br />
