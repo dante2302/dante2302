@@ -33,7 +33,7 @@
 
 ## Contacts
 <div>
-<a href="www.linkedin.com/in/darin-penchev420"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="50" /></a> &nbsp;
+<a href="www.linkedin.com/in/darinpenchev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="50" /></a> &nbsp;
 <a href="mailto:darin.penchev420@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" /></a>
 </div>
 
