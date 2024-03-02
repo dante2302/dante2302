@@ -9,7 +9,7 @@
  </div>
   
 ##   About me
-  My name is Darin Penchev, I live in Bulgaria and I'm actively looking for a developer job!  
+  Full-stack .NET developer proficient in front-end and back-end technologies. Experienced in C#, ASP.NET, MSSQL, JavaScript, and modern frameworks. Committed to delivering robust and user-friendly web applications.  
   
 <br />
    
