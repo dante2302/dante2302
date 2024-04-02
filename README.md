@@ -1,12 +1,6 @@
 <div align="center"> 
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100" align="center"/>  
 
-  <div class="badges">
-<!--   <a href="#"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" width="30"/></a> -->
-  <a href="#"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cv-294-1108422.png" width="45"></a>
-  <a href="#"><img src="https://cdn.icon-icons.com/icons2/488/PNG/512/portfolio_47696.png" width="48"></a>
-  </div>
- </div>
   
 ##   About me
   Full-stack .NET developer proficient in front-end and back-end technologies. Experienced in C#, ASP.NET, MSSQL, JavaScript, and modern frameworks. Committed to delivering robust and user-friendly web applications.  
